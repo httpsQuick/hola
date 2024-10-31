@@ -1,0 +1,27 @@
+/* Reducir el espacio entre el logo y el título */
+.logo {
+    width: 80px;
+    margin-bottom: 10px; /* Ajusta el valor para controlar la separación */
+}
+
+.titulo {
+    font-size: 24px;
+    margin-top: -10px; /* Ajusta el valor negativo para reducir el espacio encima del título */
+}
+
+/* Reducir el espacio entre los elementos del formulario */
+.form-group {
+    margin-bottom: 1rem; /* Ajusta el valor para controlar la separación entre los campos */
+}
+
+/* Reducir el espacio entre el botón de Google y el botón "Iniciar Sesión" */
+.my-2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Ajuste de la tarjeta para que no tenga tanto espacio alrededor */
+.card {
+    padding: 2rem 1.5rem; /* Reduce el padding en la tarjeta */
+}
+
